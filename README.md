@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tclark21@me.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "How you do one thing is how you do everything."
--
-- Thanks for stopping by!
-
