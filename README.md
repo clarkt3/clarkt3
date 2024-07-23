@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **clarkt3/clarkt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: "How you do one thing is how you do everything."
 -
 - Thanks for stopping by!
--->
+
