@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about time boxing and productivity hacks
 - 📫 How to reach me: tclark21@me.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "How you do one thing is how you everything." 
+- ⚡ Fun fact: "How you do one thing is how you everything."
+-
+- Thanks for stopping by!
 -->
