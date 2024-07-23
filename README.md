@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 👋
 
 - 🔭 I’m currently working on the ZTM Python Path
 - 🌱 I’m currently learning Python3
