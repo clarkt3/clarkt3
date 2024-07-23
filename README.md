@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the ZTM Python Path
 - 🌱 I’m currently learning python3
 - 👯 I’m looking to collaborate on anything that has to do with Python
