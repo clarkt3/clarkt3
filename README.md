@@ -1,7 +1,7 @@
 ## Yo 👋
 
-- 🔭 I’m currently working on the ZTM AI, Machine Learning Path.
-- 🌱 I’m currently learning Few-Shot Prompt Engineering
+- 🔭 I’m working on the ZTM AI, Machine Learning Path.
+- 🌱 I’m currently learning Pandas
 - 👯 I’m looking to collaborate on anything that has to do with Python3
 - 🤔 I’m looking for help getting into the Machine Learning, AI Industry
 - 💬 Ask me about time boxing and productivity hacks
